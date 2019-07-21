@@ -1,0 +1,87 @@
+//reset custom
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.clearfix:after {
+  content: ' ';
+  display: table;
+  height: 0;
+  clear: both;
+}
+
+//margin-top
+.mt5 {
+  margin-top: 5px;
+}
+
+.mt10 {
+  margin-top: 10px;
+}
+
+//margin-right
+.mr5 {
+  margin-right: 5px;
+}
+
+.mr10 {
+  margin-right: 10px;
+}
+
+//margin-bottom
+.mb5 {
+  margin-bottom: 5px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+//margin-left
+.ml5 {
+  margin-left: 5px;
+}
+
+.ml10 {
+  margin-left: 10px;
+}
+
+//padding-top
+.pt5 {
+  padding-top: 5px;
+}
+
+.pt10 {
+  padding-top: 10px;
+}
+
+//padding-right
+.pr5 {
+  padding-right: 5px;
+}
+
+.pr10 {
+  padding-right: 10px;
+}
+
+//padding-bottom
+.pb5 {
+  padding-bottom: 5px;
+}
+
+.pb10 {
+  padding-bottom: 10px;
+}
+
+//padding-left
+.pl5 {
+  padding-left: 5px;
+}
+
+.pl10 {
+  padding-left: 10px;
+}
